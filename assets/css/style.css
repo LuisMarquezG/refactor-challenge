@@ -1,3 +1,6 @@
+/* NOTE:
+In CSS is coding with the DRY methodology, also the use of selectors is minimized giving more relevance to classes instead */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -77,6 +80,7 @@ nav {
     margin-left: 20px;
 }
 
+/* These classes can be reused */
 .paragraph-services,
 .paragraph-benefit,
 .paragraph-footer {
@@ -114,6 +118,7 @@ nav {
     background-color: #2589bd;
 }
 
+/* These classes can be reused */
 .benefit-description {
     margin-bottom: 32px;
     color: #ffffff;
