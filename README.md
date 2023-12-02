@@ -14,6 +14,7 @@ I have learned in this project that :
 
 - Alt text often needs to be written only on images and icons that are non-decorative. If your image has a purpose or conveys a message, you need alt text. If it’s a background pattern or icons that are used decoratively, no alt tag is required.
 - Any HTML element (like div, input, nav, body, etc) can have both “id” and “class” together at the same time. The only difference here is that “id” can have only one unique value and “class” can have more than one.
+- I have tried to apply the DRY methodology as much as I could.
 
 ## License
 
